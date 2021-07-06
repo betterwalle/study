@@ -9,7 +9,7 @@ import java.util.zip.GZIPOutputStream;
 @Slf4j
 public class CommonUtil {
     /**
-     * 计算文件hash值
+     * 计算文件hash值 11
      */
     public static String hashFile(File file) throws Exception {
         FileInputStream fis = null;
